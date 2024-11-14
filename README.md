@@ -1,7 +1,7 @@
-# multicloud-cli
+# <img src=docs/multicloud-cli.png width=32 height=32> multicloud-cli
 
-A consistent Hybrid & Multicloud CLI that works across all Major Public Clouds.
+A Multicloud CLI that works across the major public clouds.
 
-<img src=docs/multicloud-cli.png>
+<img src=docs/multicloud-cli.png width=50% height=50%>
 
 
