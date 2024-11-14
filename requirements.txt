@@ -1,2 +1,2 @@
-google-fire
+fire==0.7.0
 
