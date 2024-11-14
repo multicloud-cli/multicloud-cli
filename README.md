@@ -1,4 +1,4 @@
-# <img src=docs/img/libcloud-logo.png width=32 height=32> multicloud-cli
+# <img src=docs/img/multicloud-logo.png width=32 height=32> multicloud-cli
 
 Multicloud CLI has a simple & consistent syntax across the hybrid & multicloud.
 
